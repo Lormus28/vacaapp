@@ -1,0 +1,23 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "backend for an split cost app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/Lormus28/vacaapp.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Laura Posada Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lormus28/vacaapp/issues"
+  },
+  "homepage": "https://github.com/Lormus28/vacaapp/blob/main/README.md"
+}
