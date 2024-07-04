@@ -3,10 +3,10 @@ this repository runs with Node version v20.15.0
 
 ### Now to run
 1. Install dependencies and develepment mode
-...shell
+'''shell
 npm install
-...
+'''
 
-...shell
+'''shell
 npm run dev
-...
+'''
