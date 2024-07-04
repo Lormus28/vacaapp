@@ -1,0 +1,18 @@
+{
+  "name": "vacaapp-functional-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "functional testing",
+    "playwright",
+    "API testing"
+  ],
+  "author": "Laura Posada Zapata",
+  "license": "ISC",
+  "description": "functional-test for an split expenses app",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.9"
+  }
+}
